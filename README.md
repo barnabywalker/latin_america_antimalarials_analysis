@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/342380311.svg)](https://zenodo.org/badge/latestdoi/342380311)
+
 # Plants used traditionally as antimalarials in Latin America: mining the Tree of Life for potential new medicines
 
 This repository contains analysis scripts for the paper ***Plants used traditionally as antimalarials in Latin America: mining the Tree of Life for potential new medicines***.
